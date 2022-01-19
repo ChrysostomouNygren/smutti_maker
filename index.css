@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+header, main {
+    margin: 0 auto;
+    max-width: 30rem;
+}
+
+button{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: rgb(65, 65, 182);
+    color: rgb(0, 230, 84);
+}
